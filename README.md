@@ -241,4 +241,4 @@ Ralph automatically archives previous runs when you start a new feature (differe
 - [Geoffrey Huntley's Ralph article](https://ghuntley.com/ralph/)
 - [Amp documentation](https://ampcode.com/manual)
 - [Claude Code documentation](https://docs.anthropic.com/en/docs/claude-code)
-- [Codex CLI documentation](https://github.com/openai/codex)
+- [Codex CLI documentation](https://developers.openai.com/codex/)
